@@ -1,9 +1,9 @@
 {
   "name": "repoflow/microservice-resources-proxy-container",
-  "version": "1.70.0-nginx-resources-prod",
+  "version": "1.70.0-master",
   "source": {
     "type": "folder",
     "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
-    "version": "1.70.0-nginx-resources-prod"
+    "version": "1.70.1-master"
   }
 }
